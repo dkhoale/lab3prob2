@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
+import edu.miu.lab3prob2.model.Product
 import edu.miu.lab3prob2.model.User
 import kotlinx.android.synthetic.main.activity_main.*
 
@@ -15,6 +16,7 @@ class MainActivity : AppCompatActivity() {
         add(User("Steve", "Job", "steve@gmail.com", "223344"))
         add(User("John", "Ivy", "j.ivy@gmail.com", "556677"))
     }
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)

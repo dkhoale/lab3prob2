@@ -17,7 +17,9 @@ class ShoppingActivity : AppCompatActivity() {
     }
     fun onClick(v: View?) {
         when (v?.id) {
-            R.id.imageView1 -> Toast.makeText(this, "You have chosen the Electronic category of shopping", Toast.LENGTH_LONG).show()
+            R.id.imageView1 -> {
+                startActivity(Intent(this, ProductListActivity::class.java))
+            }
             R.id.imageView2 -> Toast.makeText(this, "You have chosen the Clothing category of shopping", Toast.LENGTH_LONG).show()
             R.id.imageView3 -> Toast.makeText(this, "You have chosen the Beauty category of shopping", Toast.LENGTH_LONG).show()
             R.id.imageView4 -> Toast.makeText(this, "You have chosen the Food category of shopping", Toast.LENGTH_LONG).show()

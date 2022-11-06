@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">lab3prob2</string>
+    <string name="app_name">Walmart</string>
+    <string name="vizio_desc">Immerse yourself in the infinite possibilities of 4K streaming in award-winning Quantum Color with the all-new VIZIO M-Series 4K HDR Smart TV. M-Series combines a best-in-class active full array backlight with over a billion colors to create a true-to-life picture with an incredible color spectrum.</string>
+    <string name="hp_laptop_desc">[Memory and Storage] The PC memory has been upgraded to 16GB DDR4 SDRAM for enhanced high bandwidth to easily switch back and forth between open applications; Hard drive has been upgraded to 1TB SSD for fast boot up and speedy data transfer
+[Processor] AMD Athlon 3020e Processors (2 Cores, 1.2 GHz to 2.6 GHz, 2 Threads, 4MB L3 Cache), AMD Radeon Graphics
+[Screen] 15.6" diagonal, HD (1366 x 768) screen, narrow bezel, anti-glare, 250 nits, 45% NTSC
+[Tech Specs] 2x Super Speed USB Type-A; 1x Super Speed USB Type-C; 1x RJ-45; 1x headphone/microphone combo; 1x HDMI 1.4b; 1x AC power; 1x Multi-format digital media reader (supports SD, SDHC, SDXC)
+[Operating System] Windows 11 Home
+Original seal will be opened by our engineers for upgrade ONLY, 1-Years Warranty on upgraded RAM/SSD/HDD from DE Electronics, and original 1-Year Manufacturer Warranty on remaining components</string>
+    <string name="tablet_desc">Make your mark on the world with Samsung Galaxy Tab S7 FE, the tablet designed to bring great ideas to life. Galaxy Tab S7 FE wows the senses with dual speakers and an expansive 12.4" screen that?s easy on the eyes, whether you're inside or outside. The redesigned S Pen even feels more like a real pen, allowing you to take notes comfortably by hand or sketch out your ideas in rich detail. With a lightning-fast processor and plenty of space to store items that inspire, you can now level up your possibilities. Tie it all together with a distinctive color that fits your personal style, and make a mark that's undeniably you. S Pen included with the tablet.</string>
 </resources>
